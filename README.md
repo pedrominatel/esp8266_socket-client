@@ -1,6 +1,4 @@
-# esp8266_socket-client
-
-ESP8266 Socket Client Test Tool
+#ESP8266 Socket Client Test Tool
 
 #To build:
 
